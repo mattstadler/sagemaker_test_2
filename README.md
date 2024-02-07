@@ -1,4 +1,4 @@
-# Udacity-Developing-Your-First-ML-Workflow
+# ML-Workflow
 This repo contains the code for demos, exercises and the final project,
 ## Folder Structure
 This repo contains a folder for each lesson and one project folder.
